@@ -10,4 +10,4 @@ With "placesToRead," users can:
 - Connect with other readers and share reading recommendations.
 
 
-This project is built using modern technologies, including Kotlin and the Spring Framework, to create a user-friendly and interactive experience. We believe that every place has a story to tell and offers a unique reading experience, and we're excited to build a community of passionate readers who want to share these discoveries.
+This project is built using modern technologies, including Java, Spring Framework and webflux, to create a user-friendly and interactive experience. We believe that every place has a story to tell and offers a unique reading experience, and we're excited to build a community of passionate readers who want to share these discoveries.
